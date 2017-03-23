@@ -1,0 +1,12 @@
+{
+  "name": "number-converter",
+  "version": "1.0.0",
+  "description": "A library that converts a numbers into different number systems.",
+  "main": "numberconvert.js",
+  "keywords":["Number Systems,Calculator,Number,bin,hex,oct,dec"],
+  "author": {
+        "name": "Sokrates Embaye",
+        "email": "sokrates.embaye@gmail.com"
+    },
+  "license": "MIT"
+}
