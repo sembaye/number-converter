@@ -15,7 +15,7 @@ A library that converts a numbers into different number systems.
 ## Getting Started
 -----------
 
-    var Convert = require('./numberconvert.js');
+    var Convert = require('numberconvert');
 
     conn = new Convert();
 
