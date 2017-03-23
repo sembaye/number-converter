@@ -1,6 +1,6 @@
 {
   "name": "numberconverter",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A library that converts a numbers into different number systems.",
   "main": "index.js",
   "keywords":["Number Systems, Calculator, Number, bin, hex, oct, dec"],
