@@ -1,5 +1,5 @@
 {
-  "name": "number-converter",
+  "name": "numberconverter",
   "version": "1.0.0",
   "description": "A library that converts a numbers into different number systems.",
   "main": "numberconvert.js",
