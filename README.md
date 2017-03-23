@@ -1,4 +1,4 @@
-# number-converter
+# numberconverter
 
 A library that converts a numbers into different number systems.
 
@@ -15,7 +15,7 @@ A library that converts a numbers into different number systems.
 ## Getting Started
 -----------
 
-    var Convert = require('numberconvert');
+    var Convert = require('numberconverter');
 
     conn = new Convert();
 
