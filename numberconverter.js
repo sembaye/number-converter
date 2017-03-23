@@ -593,10 +593,10 @@ var hexinputfield="";
 var bininputfield="";
 var octinputfield="";
 
-function numberconvert(){
+function numberconverter(){
 
 }
-numberconvert.prototype.convert = function(type,value) {
+numberconverter.prototype.convert = function(type,value) {
   var ret=0;
 	if(typeof(value) ==="string"){
 		switch(type) {
@@ -630,4 +630,4 @@ numberconvert.prototype.convert = function(type,value) {
 	return ret;
 }
 
-module.exports = numberconvert;
+module.exports = numberconverter;

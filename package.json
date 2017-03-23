@@ -1,8 +1,8 @@
 {
   "name": "numberconverter",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A library that converts a numbers into different number systems.",
-  "main": "numberconvert.js",
+  "main": "numberconverter.js",
   "keywords":["Number Systems,Calculator,Number,bin,hex,oct,dec"],
   "author": {
         "name": "Sokrates Embaye",
